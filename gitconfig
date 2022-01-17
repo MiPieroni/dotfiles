@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mipieroni@gmail.com
+	name = Michelle Pieroni
